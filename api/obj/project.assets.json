@@ -4555,19 +4555,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\LeglamOat\\.nuget\\packages\\": {}
+    "C:\\Users\\LT64009\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LeglamOat\\Desktop\\Class\\2567_1\\API-PRACTICE\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\LT64009\\Desktop\\project\\JuckProject\\FinShark\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\Users\\LeglamOat\\Desktop\\Class\\2567_1\\API-PRACTICE\\api\\api.csproj",
-      "packagesPath": "C:\\Users\\LeglamOat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LeglamOat\\Desktop\\Class\\2567_1\\API-PRACTICE\\api\\obj\\",
+      "projectPath": "C:\\Users\\LT64009\\Desktop\\project\\JuckProject\\FinShark\\api\\api.csproj",
+      "packagesPath": "C:\\Users\\LT64009\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\LT64009\\Desktop\\project\\JuckProject\\FinShark\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\LeglamOat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\LT64009\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

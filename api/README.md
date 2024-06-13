@@ -12,3 +12,5 @@ In this project I use this dotnet tools's version => 8.0.6
 
 **MAKE SURE TO CHANGE THE DEFAULT CONNECTION AT appsettings.json TO BE IN THIS FORMAT**
 "DefaultConnection": "Data Source=[Your Desktop's Name]\\SQLEXPRESS;Initial Catalog=[Your DB's Name];Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"
+
+and Do Not forget To cd into the api directory!
